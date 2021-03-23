@@ -43,4 +43,4 @@ The video produced from the detecting camera is passed frame by frame tho the fi
 
 The overall accuracy on the test dataset is 96%. A test video is showing below.
 
-<img src="./detecting_video.gif">
+<img src="./video.gif">
